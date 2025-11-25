@@ -36,9 +36,11 @@ It allows users to register, authenticate, explore movies, and receive intellige
         go run .
         ```
 
+
     4. The backend will run on:
         👉 `http://localhost:8080`
 <br>
+
 3. **Frontend Setup**
     1. Open a new terminal and navigate to the client directory:
         ```bash
